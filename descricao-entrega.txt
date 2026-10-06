@@ -1,0 +1,9 @@
+Assistente Inteligente de E-mails com n8n + Python
+
+Desenvolvi um processo de RPA utilizando n8n, Python e Inteligência Artificial para automatizar o atendimento de solicitações recebidas via webhook.
+
+O fluxo recebe nome, e-mail, assunto e mensagem, realiza o tratamento e a classificação da solicitação, envia os dados para uma API de IA gerar uma resposta personalizada e utiliza o Gmail para automatizar o envio do e-mail.
+
+O projeto demonstra integração entre APIs, webhooks, automação de processos, tratamento de dados, Python, JSON e uso de Inteligência Artificial em um fluxo completo de RPA.
+
+Também foram considerados cuidados de segurança, como não armazenar chaves de API diretamente no repositório e utilizar credenciais protegidas no n8n.

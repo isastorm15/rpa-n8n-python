@@ -1,0 +1,13 @@
+# Segredos e variáveis locais
+.env
+*.env
+credentials.json
+secrets.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Sistema
+.DS_Store
+Thumbs.db
